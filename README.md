@@ -1,4 +1,4 @@
-# worldtimeapp
+# coronatracker
 
 A new Flutter application.
 
